@@ -1,0 +1,39 @@
+# --- Node.js ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Builds / dist ---
+dist/
+build/
+.cache/
+.next/
+out/
+coverage/
+
+# --- Configuración de editores ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS (Mac, Linux, Windows) ---
+.DS_Store
+Thumbs.db
+
+# --- Archivos temporales ---
+*.log
+*.tmp
+*.temp
+
+# --- Ambiente ---
+.env
+.env.local
+.env.*.local
+
+# --- Otros ---
+# Evita subir imágenes muy pesadas que se usen solo para pruebas
+*.psd
+*.tiff
+*.bmp
