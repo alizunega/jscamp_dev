@@ -28,7 +28,7 @@ El objetivo es ofrecer una experiencia clara, simple y moderna para conectar tal
 - **Base de Datos**: SQL
 ##  Instalación y ejecución (futuro) :rocket:
 
-> ⚠️ En desarrollo: los pasos podrán variar a medida que avance el proyecto.
+> :warning: En desarrollo: los pasos podrán variar a medida que avance el proyecto.
 
 1. Clona el repositorio:
 
@@ -59,20 +59,20 @@ El objetivo es ofrecer una experiencia clara, simple y moderna para conectar tal
     </figure>
     <figure>
       <img src="./assets/img/screen_detalles.png" alt="Pagina Detalle del empleo">
-      <figcaption>Ejemplo visualizacion: Búsqueda de item por palabra clave. Resultado en consola.</figcaption>
+      <figcaption>Ejemplo visualizacion: Pagina de Detalle del Empleo.</figcaption>
     </figure>
     <figure>
       <img src="./assets/img/screen_iniciosesionyregistro.png" alt="Pagina Registro o Inicio de Sesion">
-      <figcaption>Ejemplo de visualizacion: Formulario carga nuevo item.</figcaption>
+      <figcaption>Ejemplo de visualizacion: Registro/Inicio de sesion.</figcaption>
     </figure>
     <figure>
       <img src="./assets/img/screen_perfil.png" alt="Pagina Perfil Usuario/Empresa">
-      <figcaption>Ejemplo de uso: Carga de datos en formulario.</figcaption>
+      <figcaption>Ejemplo de visualizacion: Pagina Perfil de usuario/Empresa .</figcaption>
     </figure>
 </section>
 
 
-##  Estado del proyecto :pin:
+##  Estado del proyecto :pushpin:
 
 Actualmente en fase inicial: estructura básica del frontend y definición de las vistas principales.
 Próximos pasos:
