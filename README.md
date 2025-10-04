@@ -55,11 +55,11 @@ El objetivo es ofrecer una experiencia clara, simple y moderna para conectar tal
     </figure>
     <figure>
       <img src="./assets/img/screen_busqueda.png" alt="Pagina Busqueda empleo">
-      <figcaption>Ejemplo visualizacion: Pagina Busqueda.</figcaption>
+      <figcaption>Ejemplo visualizacion: Pagina de Detalle del Empleo.</figcaption>
     </figure>
     <figure>
       <img src="./assets/img/screen_detalles.png" alt="Pagina Detalle del empleo">
-      <figcaption>Ejemplo visualizacion: Pagina de Detalle del Empleo.</figcaption>
+      <figcaption>Ejemplo visualizacion: Pagina Busqueda.</figcaption>
     </figure>
     <figure>
       <img src="./assets/img/screen_iniciosesionyregistro.png" alt="Pagina Registro o Inicio de Sesion">
