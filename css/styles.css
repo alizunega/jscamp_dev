@@ -5,7 +5,7 @@
     --color-background: rgb(49, 49, 74);
 
     --color-background-footer: #203754ae;
-    
+
     --color-buttons: rgba(136, 136, 251, 0.88);
     --color-buttons-hover: #49316d;
     --color-fonts: #f9f9f9;
@@ -38,13 +38,15 @@ body {
 ul {
     list-style: none;
 }
+
 a {
     text-decoration: none;
     color: inherit;
     margin: 0;
     padding: 0;
-    
+
 }
+
 /* header */
 /* formato header */
 header {
@@ -61,6 +63,12 @@ header {
     width: 100%;
 }
 
+.nav {
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 1em;
+}
+
 /* footer */
 footer {
     display: flex;
@@ -70,4 +78,14 @@ footer {
     font-family: var(--font-size_texto);
     margin-bottom: 0.7em;
     margin-top: 1em;
+}
+
+.icon-devjobs {
+    background-image: url('../assets/icons/devjobs-icon.png');
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-size: cover;
+    vertical-align: middle;
+    margin-right: 8px;
 }
